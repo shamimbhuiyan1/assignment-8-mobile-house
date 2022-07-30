@@ -1,6 +1,7 @@
 import { useState } from "react";
 import ItemsCart from "../ItemsCart/ItemsCart";
-import "./Cards.css";
+
+import "./Carts.css";
 
 const Cards = ({ carts, removeBtn }) => {
   // console.log(carts);
