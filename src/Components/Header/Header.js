@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../logos/logo.png";
+import logo from "../images/mobile logo.webp";
 import "./Header.css";
 
 const Header = () => {
@@ -9,7 +9,7 @@ const Header = () => {
         <div className="container">
           <div className="logo">
             <img src={logo} alt="" />
-            <h1>My Type Buyer</h1>
+            <h1>Mobile House</h1>
           </div>
           <div className="menu">
             <a href="/">Home</a>
