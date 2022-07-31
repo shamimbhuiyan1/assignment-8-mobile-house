@@ -1,0 +1,44 @@
+.card {
+    border: none;
+    box-shadow: 0 0 3px 1px #d9d9d9;
+    border-radius: 3px;
+  }
+  .card img {
+    width: 100%;
+  }
+
+  .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #1831537c;
+    background-color: transparent;
+    color: #183153;
+  }
+  .btn:hover {
+    cursor: pointer;
+    background-color: #183153;
+    color: white;
+  }
+  .btn:active {
+    background-color: #1f4881;
+  }
+  .btn p {
+    margin: 0;
+    padding: 0;
+  }
+  .btn-icon {
+    margin-left: 15px;
+  }
+  .product-body {
+    padding: 20px;
+    padding-top: 0;
+  }
+  @media screen and(max-width: 828px) {
+    .card-info h5 {
+      font-size: 11px;
+    }
+  }
