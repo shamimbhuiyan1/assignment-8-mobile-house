@@ -1,0 +1,19 @@
+.bg {
+    border: none;
+    box-shadow: 0 0 8px -2px gray;
+     padding: 50px;
+     border-radius: 5px;;
+     margin: 50px 0;
+   }
+   .bg h1{
+     color: #13289d;
+     font-size: 2.5rem;
+     font-weight: 500;
+     text-align: center;
+   }
+
+   .qna h2{
+       color: #183153;
+       font-weight: 500;
+       font-size: 1.75rem
+   }

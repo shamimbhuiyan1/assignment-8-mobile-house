@@ -1,6 +1,6 @@
 .main-menu {
     background-color: #f7f7f7;
-    margin-bottom: 50px;;
+    margin-bottom: 50px;
   }
   .main-menu .container {
     display: flex;
@@ -28,6 +28,7 @@
     text-transform: uppercase;
     margin-left: 15px;
     font-weight: 500;
+    margin-right: 10px;
   }
 
   .menu a:hover {

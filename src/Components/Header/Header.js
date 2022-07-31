@@ -9,7 +9,9 @@ const Header = () => {
         <div className="container">
           <div className="logo">
             <img src={logo} alt="" />
-            <h1>Mobile House</h1>
+            <h1 style={{ fontSize: "20px", fontWeight: "bold" }}>
+              Mobile House
+            </h1>
           </div>
           <div className="menu">
             <a href="/">Home</a>
